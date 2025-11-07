@@ -46,6 +46,7 @@
 
       (coq "Coq" "v" nil (".vo" ".glob" ".vok" ".vos"))
       (easycrypt "EasyCrypt" "ec" "\\.eca?\\'")
+      (ucdsl-interpreter "UC DSL Interpreter" "uci")
       (phox "PhoX" "phx" nil (".phi" ".pho"))
       (qrhl "qRHL" "qrhl")
 
